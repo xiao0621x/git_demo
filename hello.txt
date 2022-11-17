@@ -1,4 +1,5 @@
 hello git! hello world!
+hello git! This is modified by the hot-fix
 hello git
 hello git
 hello git
@@ -12,5 +13,4 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git 2.1
+hello git hot-fix 2.2
