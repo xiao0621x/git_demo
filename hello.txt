@@ -1,16 +1,17 @@
 hello git! hello world!
 hello git! This is modified by the master.
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git master 2.2
+hello git! This is modified by the hot-fix.
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git! hot-fix 2.2
