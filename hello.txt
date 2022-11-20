@@ -1,6 +1,7 @@
 hello git! hello world!
 hello git! This is modified by the master.
 hello git! This is modified by the hot-fix.
+hello git! This is modified by the remote.
 hello git!
 hello git!
 hello git!
@@ -13,5 +14,4 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git! hot-fix 2.2
+hello git! remote 2.3
